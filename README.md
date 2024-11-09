@@ -1,1 +1,1 @@
-Documento e cógido em Python sobre Método de Mínimos Quadrados Ordinários (em inglês Ordinary Least Squares, OLS), abordando teoria e exemplo simples para quem não possue conhecimento prévio em estatística ou econometria.
+Documento e cógido em Python sobre Método de Mínimos Quadrados Ordinários (em inglês Ordinary Least Squares, OLS), abordando teoria e exemplo simples para quem não possui conhecimento prévio em estatística ou econometria.
